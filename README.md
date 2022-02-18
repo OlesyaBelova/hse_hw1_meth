@@ -1,4 +1,5 @@
 # hse_hw1_meth  
+Cсылка на GoogleCollab https://colab.research.google.com/drive/13X6MmvM2SARDmd05_Hf4Dcfi2y9YLskL?usp=sharing  
 ## 1. Анализ FastQC  
 ## 2. BAM-выравнивание и таблица
 ОБРАЗЕЦ | РАСШИФРОВКА | РИДОВ, ЗАКАРТИРОВАННЫХ НА УЧАСТКЕ 11347700-11367700 | РИДОВ, ЗАКАРТИРОВАННЫХ НА УЧАСТКЕ 40185800-40195800  
