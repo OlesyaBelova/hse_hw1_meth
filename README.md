@@ -23,10 +23,13 @@ SRR5836473 | 521904 | 18.31
 SRR3824222 | 205258 | 2.92  
 SRR5836475 | 377882 | 9.08  
 ## 4. M-Bias  
+### 8-cell  
 ![](data/8cellM-bias.png)  
 ![](data/8cellM-bias2.png)  
+### Epiblast  
 ![](data/EpiblastM-bias.png)  
 ![](data/EpiblastM-bias2.png)  
+### ICM  
 ![](data/ICMM-bias.png)  
 ![](data/ICMM-bias2.png)  
 ## 5. Гистограммы метилирования  
