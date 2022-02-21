@@ -23,3 +23,7 @@ SRR5836475 | 377882 | 9.08
 ![](data/EpiblastM-bias2.png)  
 ![](data/ICMM-bias.png)  
 ![](data/ICMM-bias2.png)  
+## 5. Гистограммы метилирования  
+![](data/8cell.png) 
+![](data/Epiblast.png)  
+![](data/ICM.png) 
