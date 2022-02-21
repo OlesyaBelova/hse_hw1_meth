@@ -16,3 +16,10 @@ SRR5836475 | ICM | 1456 | 630
 SRR5836473 | 521904 | 18.31  
 SRR3824222 | 205258 | 2.92  
 SRR5836475 | 377882 | 9.08  
+## 4. M-Bias  
+![](data/8cellM-bias.png)  
+![](data/8cellM-bias2.png)  
+![](data/EpiblastM-bias.png)  
+![](data/EpiblastM-bias2.png)  
+![](data/ICMM-bias.png)  
+![](data/ICMM-bias2.png)  
